@@ -1,7 +1,7 @@
 # olympiad_examination_project
 
-In this project I have helped a school to manage their examination data and helped them to create 5 types 
-of reports according to their requirement.
+In this project I have helped a school to manage their examination data and helped them by creating certain reports and by solving queries 
+as per their requirement.
 Please refer Tasks.docx for more details.
 
 ## Schema
